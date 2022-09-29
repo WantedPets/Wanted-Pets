@@ -1,2 +1,2 @@
-[Untitled.pdf](https://github.com/WantedPets/Wanted-Pets/files/9679416/Untitled.pdf)
-# Wanted-Pets[Wanted Pets.xlsx](https://github.com/WantedPets/Wanted-Pets/files/9679417/Wanted.Pets.xlsx)
+REQUISITOS_WANTEDPETS: [REQUISITOS_WANTEDPETS.xlsx](https://github.com/WantedPets/Wanted-Pets/files/9679434/REQUISITOS_WANTEDPETS.xlsx)
+PROTOTIPAÇÃO_WANTEDPETS: [PROTOTIPAÇÃO_WANTEDPETS.pdf](https://github.com/WantedPets/Wanted-Pets/files/9679436/PROTOTIPACAO_WANTEDPETS.pdf)
