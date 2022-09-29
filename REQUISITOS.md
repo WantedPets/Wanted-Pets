@@ -1,0 +1,1 @@
+REQUISITOS_WANTEDPETS: [REQUISITOS_WANTEDPETS.xlsx](https://github.com/WantedPets/Wanted-Pets/files/9679434/REQUISITOS_WANTEDPETS.xlsx)
