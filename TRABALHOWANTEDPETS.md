@@ -1,2 +1,3 @@
 REQUISITOS_WANTEDPETS: [REQUISITOS_WANTEDPETS.xlsx](https://github.com/WantedPets/Wanted-Pets/files/9679434/REQUISITOS_WANTEDPETS.xlsx)
 PROTOTIPAÇÃO_WANTEDPETS: [PROTOTIPAÇÃO_WANTEDPETS.pdf](https://github.com/WantedPets/Wanted-Pets/files/9679459/PROTOTIPACAO_WANTEDPETS.pdf)
+CASO DE USO: [CASO DE USO, WANTEDPETS.vpd.pdf](https://github.com/WantedPets/Wanted-Pets/files/9679744/CASO.DE.USO.WANTEDPETS.vpd.pdf)
